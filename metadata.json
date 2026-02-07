@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JARVIS Personal Assistant",
+  "description": "A high-tech, voice-activated AI assistant inspired by Iron Man, capable of system simulation, voice interaction, and document reading using Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
